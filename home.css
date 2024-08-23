@@ -1,9 +1,14 @@
 .container--home{
     display: flex;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
-    padding: 0 10rem ;
+    /* padding: 0 10rem ; */
+    padding: 2rem;
     gap: 3rem;
+    border-radius: 8px; /* Redondea los bordes de la sección */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Agrega una sombra para un efecto de profundidad */
+    overflow: hidden; /* Asegura que el contenido no sobresalga */
 
 }
 
@@ -11,12 +16,15 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 3rem;
+    /* gap: 3rem; */
+    gap: 2rem;
+    text-align: center; /*Esto añadi*/
 }
 
 .info--h1{
     font-size: 2.5rem;
     font-weight: 700;
+    text-align: center;
 }
 
 .info--description{
@@ -24,20 +32,51 @@
     flex-direction: column;
     justify-content: center;
     gap: 1rem;
-    width: 50rem;
+    /* width: 50rem; */
+    width: 100%; /*Esto añadi*/
+    max-width: 50rem; /*Esto añadí*/
+    text-align: left;
 }
 
 .info--description h3{
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     font-weight: 500;
 }
 
 .info--description p{
-    font-size: 18px;
-    line-height: 1.5rem;
+    font-size: 1rem;
+    line-height: 1.5;
 }
 
 
 .home--img{
-    width: 28rem;
+    /* width: 28rem; */
+    width: 100%;
+    max-width: 25rem;
+}
+
+
+
+@media (max-width: 768px) {
+    .container--home {
+        flex-direction: column; /* Cambia la dirección del layout en pantallas pequeñas */
+        padding: 1rem; /* Ajusta el padding */
+    }
+
+    .home--img {
+        width: 100%; /* Ajusta el ancho de la imagen */
+        max-width: none; /* Elimina el límite de ancho máximo */
+    }
+
+    .info--h1 {
+        font-size: 1.8rem; /* Ajusta el tamaño del texto */
+    }
+
+    .info--description h3 {
+        font-size: 1.4rem; /* Ajusta el tamaño del texto */
+    }
+
+    .info--description p {
+        font-size: 0.9rem; /* Ajusta el tamaño del texto */
+    }
 }

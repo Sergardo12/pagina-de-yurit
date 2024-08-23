@@ -3,21 +3,98 @@
     height: 5.5rem;
 }
 
-.header--nav img{
-    width: 4rem;
-    border-radius: 50%;
-}
 
 .header--nav{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    padding-top: 1rem;
+    padding: 1rem 14rem;
     color:#FFFFFF;
 }
 
-.nav--ul{
+.header--nav img{
+    width: 3rem;
+    border-radius: 50%;
+}
+
+.nav--ul {
     display: flex;
     align-items: center;
-    gap: 3rem;
+    gap: 2.5rem; /* Un poco menos de espacio para más cohesión */
+}
+
+.nav--ul__li a {
+    text-decoration: none; /* Sin subrayado en los enlaces */
+    color: #FFFFFF; /* Color del texto */
+    font-weight: 600; /* Resalta un poco los enlaces */
+    transition: color 0.3s, transform 0.3s; /* Transición suave para color y transform */
+    position: relative; /* Necesario para el pseudo-elemento */
+}
+
+.nav--ul__li a:hover {
+    color: #FFD5C2; /* Color del texto en hover */
+    transform: scale(1.1); /* Aumenta el tamaño del texto en hover */
+}
+
+.nav--ul__li a::before {
+    content: ''; /* Crear un pseudo-elemento */
+    position: absolute; /* Posicionamiento absoluto para alinearlo con el enlace */
+    bottom: -2px; /* Ajustar la posición inferior */
+    left: 0; /* Alinear a la izquierda */
+    width: 0; /* Inicialmente no visible */
+    height: 2px; /* Alto de la línea */
+    background-color: #FFD5C2; /* Color de la línea */
+    transition: width 0.3s; /* Transición suave para la anchura de la línea */
+}
+
+.nav--ul__li a:hover::before {
+    width: 100%; /* Mostrar la línea completa en hover */
+}
+
+
+/* Estilos para tablets */
+@media (max-width: 768px) {
+    .container--header {
+        height: 4rem; /* Ajusta la altura para tablets */
+    }
+
+    .header--nav {
+        padding: 1rem 4rem; /* Ajusta el padding para tablets */
+    }
+
+    .header--nav img {
+        width: 2.5rem; /* Ajusta el tamaño del logo para tablets */
+    }
+
+    .nav--ul {
+        gap: 1.5rem; /* Ajusta el espacio entre los elementos del menú */
+    }
+}
+
+/* Estilos para móviles */
+@media (max-width: 480px) {
+    .container--header {
+        height: auto; /* Ajusta la altura automáticamente en móviles */
+        padding: 0.5rem 1rem; /* Añade padding para móviles */
+    }
+
+    .header--nav {
+        padding: 0.5rem 1rem; /* Ajusta el padding para móviles */
+        flex-direction: column; /* Apila el logo y el menú verticalmente */
+        align-items: center; /* Centra los elementos en el contenedor */
+    }
+
+    .header--nav img {
+        width: 2rem; /* Ajusta el tamaño del logo para móviles */
+    }
+
+    .nav--ul {
+        flex-direction: column; /* El menú se convierte en una columna en móviles */
+        gap: 0.5rem; /* Ajusta el espacio entre los elementos del menú */
+        margin-top: 0.5rem; /* Añade un margen superior para separar el menú del logo */
+    }
+
+    .nav--ul__li a {
+        font-size: 0.9rem; /* Ajusta el tamaño de la fuente para móviles */
+    }
 }

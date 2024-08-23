@@ -3,14 +3,23 @@
 @import url(blog.css);
 @import url(app.css);
 @import url(patrones.css);
+@import url(footer.css);
 :root{
     --main-font: 'Overpass', sans-serif;
     --secondary-font: 'Bodoni Moda', sans-serif;
 }
+
+* {
+    box-sizing: border-box;
+}
+
+
+
 body{
     font-family: var(--main-font);
     background-color: #efe2d9;
     color: #3a2c2a;
+    overflow-x: hidden; /* Evita el desbordamiento horizontal */
 
 }
 
