@@ -1,0 +1,14 @@
+.patrones--container{
+    background-color: #D9D9D9 ;
+}
+
+.patrones--h1{
+    text-align: center;
+    font-weight: 800;
+    font-size: 3rem;
+}
+
+.patrones--lista{
+    display: flex;
+    
+}

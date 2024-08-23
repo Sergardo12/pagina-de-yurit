@@ -1,0 +1,19 @@
+@import url(header.css);
+@import url(home.css);
+@import url(blog.css);
+@import url(app.css);
+@import url(patrones.css);
+:root{
+    --main-font: 'Overpass', sans-serif;
+    --secondary-font: 'Bodoni Moda', sans-serif;
+}
+body{
+    font-family: var(--main-font);
+    background-color: #efe2d9;
+    color: #3a2c2a;
+
+}
+
+h1, h2, h3 {
+    font-family: var(--secondary-font);
+}

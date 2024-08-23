@@ -1,0 +1,30 @@
+.app--h1{
+    text-align: center;
+    font-weight: 800;
+    font-size: 3rem;
+    padding-top: 1rem;
+}
+.app--lista{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    padding: 2rem;
+}
+
+.app--lista li div{
+    width: 20rem;
+    border: 1px solid #312525;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.app--lista li h2{
+    font-size: 1.2rem;
+    font-weight: 800;
+    padding-bottom: 1rem;
+}
+
+.app--lista li p{
+    font-size: 24px;
+}

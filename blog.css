@@ -1,0 +1,34 @@
+.container--blog{
+    background-color: #F2D7D9;
+}
+
+.blog--h1{
+    text-align: center;
+    font-weight: 800;
+    font-size: 3rem;
+}
+
+.blog--lista{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    padding: 2rem;
+}
+
+.blog--lista li div{
+    width: 20rem;
+    border: 1px solid #985a5a;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.blog--lista li h2{
+    font-size: 1.5rem;
+    font-weight: 800;
+    padding-bottom: 1rem;
+}
+
+.blog--lista li p{
+    font-size: 24px;
+}

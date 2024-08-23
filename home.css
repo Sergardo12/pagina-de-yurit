@@ -1,0 +1,43 @@
+.container--home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10rem ;
+    gap: 3rem;
+
+}
+
+.home--info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 3rem;
+}
+
+.info--h1{
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.info--description{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+    width: 50rem;
+}
+
+.info--description h3{
+    font-size: 1.8rem;
+    font-weight: 500;
+}
+
+.info--description p{
+    font-size: 18px;
+    line-height: 1.5rem;
+}
+
+
+.home--img{
+    width: 28rem;
+}

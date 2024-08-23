@@ -1,0 +1,23 @@
+.container--header{
+    background-color: #a57c6c ;
+    height: 5.5rem;
+}
+
+.header--nav img{
+    width: 4rem;
+    border-radius: 50%;
+}
+
+.header--nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 1rem;
+    color:#FFFFFF;
+}
+
+.nav--ul{
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+}
