@@ -1,0 +1,13 @@
+.footer{
+   /* Ejemplo de estilo para el Footer */
+
+    background-color: #a57c6c;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+
+
+}

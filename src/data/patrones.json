@@ -1,0 +1,957 @@
+{
+    "patrones":[
+        {
+            "id": "1",
+            "nombre": "Snoopy",
+            "imagen": "/img/patronesDentro/Snoopy.jpg",
+            "materiales": [
+              "Hilo blanco, negro y rojo (grosor mediano)",
+              "Aguja de crochet de 3.5 mm",
+              "Relleno de fibra sintética",
+              "Ojos de seguridad (opcional)",
+              "Aguja de coser e hilo"
+            ],
+            "abreviaturas": {
+              "AM": "Anillo mágico",
+              "PB": "Punto bajo",
+              "Aum": "Aumento (2 PB en el mismo punto)",
+              "Dis": "Disminución (tejer 2 PB juntos)",
+              "Cad": "Cadena"
+            },
+            "pasos": {
+              "cabeza": [
+                "Vuelta 1: 6 PB en AM (6)",
+                "Vuelta 2: Aum en cada punto (12)",
+                "Vuelta 3: (1 PB, Aum) repetir 6 veces (18)",
+                "Vuelta 4: (2 PB, Aum) repetir 6 veces (24)",
+                "Vueltas 5-10: PB en cada punto (24)",
+                "Vuelta 11: (2 PB, Dis) repetir 6 veces (18)",
+                "Vuelta 12: (1 PB, Dis) repetir 6 veces (12)",
+                "Rellenar la cabeza con fibra sintética.",
+                "Vuelta 13: Dis en cada punto (6)",
+                "Cerrar con un punto deslizado."
+              ],
+              "cuerpo": [
+                "Vuelta 1: 6 PB en AM (6)",
+                "Vuelta 2: Aum en cada punto (12)",
+                "Vuelta 3: (1 PB, Aum) repetir 6 veces (18)",
+                "Vueltas 4-9: PB en cada punto (18)",
+                "Vuelta 10: (1 PB, Dis) repetir 6 veces (12)",
+                "Vuelta 11: Dis en cada punto (6)",
+                "Cerrar con un punto deslizado y dejar una hebra larga para coser al cuerpo."
+              ],
+              "orejas": [
+                "Vuelta 1: 6 PB en AM con hilo negro (6)",
+                "Vuelta 2: Aum en cada punto (12)",
+                "Vueltas 3-5: PB en cada punto (12)",
+                "Cerrar y dejar hebra larga para coser."
+              ],
+              "brazos": [
+                "Vuelta 1: 6 PB en AM (6)",
+                "Vuelta 2: Aum en cada punto (12)",
+                "Vueltas 3-7: PB en cada punto (12)",
+                "Cerrar y dejar hebra larga para coser."
+              ],
+              "patas": [
+                "Vuelta 1: 6 PB en AM (6)",
+                "Vuelta 2: Aum en cada punto (12)",
+                "Vueltas 3-6: PB en cada punto (12)",
+                "Cerrar y dejar hebra larga para coser."
+              ],
+              "cola": [
+                "Vuelta 1: 6 PB en AM (6)",
+                "Vuelta 2: Aum en cada punto (12)",
+                "Vueltas 3-4: PB en cada punto (12)",
+                "Cerrar y dejar hebra larga para coser."
+              ],
+              "montaje": [
+                "Cose las orejas a los lados de la cabeza.",
+                "Cose los brazos al cuerpo justo debajo de la cabeza.",
+                "Cose las patas en la base del cuerpo.",
+                "Cose la cola en la parte posterior.",
+                "Bordar los ojos y la nariz con hilo negro o colocar ojos de seguridad."
+              ],
+              "collar": [
+                "Teje una cadena con hilo rojo alrededor del cuello y asegura los extremos."
+              ]
+            },
+            "video": "https://youtu.be/xzYkKxVO2PA?si=yAiTkluDdzkJoraZ"
+
+          },
+          {
+            "id": "2",
+            "nombre": "Deadpool",
+            "imagen": "/img/patronesDentro/Deadpool.jpg",
+            "materiales": [
+              "Estambre: Rojo, negro, café",
+              "Fieltro: Negro, blanco, rojo (opcional)",
+              "Pintura: Blanca (opcional)",
+              "Relleno: Para el amigurumi",
+              "Llavero: Opcional",
+              "Gancho: 3 mm",
+              "Aguja para estambre: Para coser"
+            ],
+            "abreviaturas": {
+              "AM": "Anillo mágico",
+              "PB": "Punto bajo",
+              "Aum": "Aumento (2 PB en el mismo punto)",
+              "Dis": "Disminución (tejer 2 PB juntos)",
+              "Cad": "Cadena"
+            },
+            "pasos": {
+              "cuerpo": [
+                "Anillo mágico: Haz un anillo mágico y teje 8 puntos bajos (8 pb).",
+                "Aumento: Teje 2 puntos bajos en cada punto de la vuelta anterior (16 pb).",
+                "Aumentos adicionales: 1 punto bajo y 1 aumento (24 pb). 2 puntos bajos y 1 aumento (32 pb).",
+                "Formar la Cabeza: Vuelvas sin aumentos: Teje 8 vueltas de 32 puntos bajos cada una.",
+                "Disminuciones: 2 puntos bajos y 1 disminución (24 pb). Vuelta de 12 disminuciones (12 pb).",
+                "Rellenar: Rellena la cabeza y cierra con un punto deslizado."
+              ],
+              "cabeza": [
+                "Cambio de Color: Cambia a color negro y teje una vuelta de 12 puntos bajos.",
+                "Cambia a rojo y teje: 2 puntos bajos y 1 aumento (16 pb).",
+                "Realiza detalles alternando entre rojo y negro: 5 puntos bajos en rojo, luego 3 en negro, y repite dos veces.",
+                "Continuar con el Rojo: Haz 3 puntos bajos y 1 aumento (20 pb).",
+                "Rellena y cierra."
+              ],
+              "piernas": [
+                "Primera Pierna: Comienza con un anillo mágico de 3 puntos bajos (3 pb). Aumenta a 6 puntos bajos (6 pb).",
+                "Haz dos vueltas de 6 puntos bajos en rojo. Cambia a negro y teje una vuelta de 8 puntos bajos.",
+                "Deja una tira de estambre para coser y cierra.",
+                "Segunda Pierna: Repite el proceso para hacer la otra pierna."
+              ],
+              "brazos": [
+                "Primer Brazo: Comienza con un anillo mágico de 3 puntos bajos (3 pb). Aumenta a 6 puntos bajos (6 pb).",
+                "Haz 2 vueltas de 6 puntos bajos en rojo. Cambia a negro y teje una vuelta de 6 puntos bajos.",
+                "Deja una tira de estambre para coser y cierra.",
+                "Segundo Brazo: Repite el proceso para hacer el otro brazo."
+              ],
+              "cinturon": [
+                "Tejer el Cinturón: Haz 16 cadenas en color café.",
+                "Corta una tira larga y cósela a la parte inferior del cuerpo, justo en el cambio de color negro.",
+                "Detalles del Cinturón: Añade detalles como bolsas usando estambre café y cosiéndolos al cinturón."
+              ],
+              "detallesFinales": [
+                "Ojos: Corta dos formas de rombo de fieltro negro y pégalos a la cabeza.",
+                "Añade un pequeño círculo blanco para los detalles de los ojos.",
+                "Detalles en el Cinturón: Corta un círculo rojo, y luego uno negro más pequeño para el centro del cinturón.",
+                "Pinta pequeños detalles blancos en el círculo negro si lo deseas."
+              ],
+              "montajeFinal": [
+                "Armar el Muñeco: Cose los brazos a los costados del cuerpo, en la fila de rojo por debajo de la línea negra.",
+                "Cose las piernas al cuerpo.",
+                "Añade el llavero si deseas."
+              ]
+            },
+            "video": "https://youtu.be/SGJVXM1US_s?si=WbKAC7hLB6F04MaT"
+          },
+          {
+            "id": "3",
+            "nombre": "Capibara",
+            "imagen": "/img/patronesDentro/Capibara.jpg",
+            "materiales": [
+              "Hilo para amigurumi (marca Círculo, grosor de 2 mm) en los siguientes colores:",
+              "Beige (para el cuerpo)",
+              "Rosa (para el lacito)",
+              "Marrón (para las orejitas)",
+              "Rojo (para el bolsito)",
+              "Aguja de crochet de 2 mm",
+              "Llaverito (opcional, si deseas hacer llaveros)",
+              "Hilo negro para bordar el rostro",
+              "Algodón para rellenar"
+            ],
+            "abreviaturas": {
+              "AM": "Anillo mágico",
+              "PB": "Punto bajo",
+              "Aum": "Aumento (2 PB en el mismo punto)",
+              "Dis": "Disminución (tejer 2 PB juntos)",
+              "Cad": "Cadena"
+            },
+            "pasos": {
+              "cuerpo": [
+                "Ronda 1: Realiza un anillo mágico con 6 puntos bajos. Aumenta en cada punto para tener 12 puntos en total.",
+                "Ronda 2: Comienza con un aumento, sigue con 2 puntos bajos, y repite tres veces. Termina con un aumento en el último punto (16 puntos en total).",
+                "Ronda 3: Teje un aumento, luego 3 puntos bajos y repite una secuencia de un punto bajo y un aumento, repitiendo tres veces más. Termina con dos puntos bajos y un aumento (22 puntos en total).",
+                "Ronda 4: Comienza con un aumento, luego teje 4 puntos bajos. Sigue con una secuencia de 2 puntos bajos y un aumento, repitiendo tres veces. Luego, teje 3 puntos bajos y un aumento, repitiendo dos veces más (28 puntos en total).",
+                "Rondas 5-7: Teje 28 puntos bajos en cada ronda sin aumentos ni disminuciones.",
+                "Ronda 8: Teje un punto bajo, un aumento, 6 puntos bajos. Luego realiza una secuencia de un punto bajo y una disminución, repitiendo tres veces. Termina con 8 puntos bajos, un aumento, un punto bajo, y un aumento (28 puntos en total).",
+                "Ronda 9: Teje 9 puntos bajos, 3 disminuciones, y termina con 13 puntos bajos (25 puntos en total).",
+                "Ronda 10: Teje 9 puntos bajos, una disminución triple (tejiendo 3 puntos bajos en el mismo punto), y finaliza con 13 puntos bajos (23 puntos en total).",
+                "Ronda 11: Teje 5 puntos bajos, un punto burbuja (5 puntos altos en el mismo punto), luego 2 puntos bajos, 3 aumentos, 2 puntos bajos, y otro punto burbuja (6 puntos bajos en total).",
+                "Rondas 12-14: Teje 26 puntos bajos en cada ronda.",
+                "Ronda 15: Teje 6 puntos bajos, un punto burbuja, 8 puntos bajos, otro punto burbuja, y 10 puntos bajos (26 puntos en total).",
+                "Ronda 16: Realiza una secuencia de 2 puntos bajos y una disminución, repitiendo seis veces. Termina con un punto bajo (20 puntos en total).",
+                "Ronda 17: Realiza una secuencia de un punto bajo y una disminución, repitiendo seis veces. Termina con un punto bajo (14 puntos en total). Rellena el cuerpo con algodón.",
+                "Ronda 18: Teje 8 disminuciones (8 puntos en total). Cierra el círculo y oculta el hilo."
+              ],
+              "rostro": [
+                "Bordar la nariz y la boca en el centro del rostro entre las rondas 5 y 6.",
+                "Bordar los ojos y los bigotes con hilo negro."
+              ],
+              "orejas": [
+                "Levanta 4 cadenas desde dos puntos bajos detrás del ojo.",
+                "Teje 3 puntos bajos en la segunda cadena y une con un punto deslizado. Repite para la otra oreja."
+              ],
+              "bolsito": [
+                "Realiza un anillo mágico y dentro teje 3 cadenas, 2 puntos altos dobles, 2 puntos altos, 2 cadenas, 2 puntos altos dobles, 2 puntos altos y cierra con un punto deslizado.",
+                "Para las asas, levanta 17 cadenas, une con un punto deslizado, y repite para la otra asa."
+              ],
+              "detallesFinales": [
+                "Añade rubor rosa en las mejillas de la hembra.",
+                "Coloca un lacito en la capibara hembra.",
+                "Agrega llaveritos si lo deseas."
+              ]
+            },
+            "video": "https://youtu.be/zdat85XnpaA?si=o0HjujErGTUB-sSO"
+          },
+          {
+            "id": "4",
+            "nombre": "Dinosaurio",
+            "imagen": "/img/patronesDentro/Dinosaurio.jpg",
+            "materiales": [
+              "Hilos (colores verde aguacate y color paja)",
+              "Gancho de crochet número 2",
+              "Relleno",
+              "Tijeras",
+              "Ojitos de seguridad del número 6",
+              "Alfileres",
+              "Marcador de puntos",
+              "Aguja lanera",
+              "Ganchito para llavero"
+            ],
+            "abreviaturas": {
+              "AM": "Anillo mágico",
+              "PB": "Punto bajo",
+              "Aum": "Aumento (2 PB en el mismo punto)",
+              "Dis": "Disminución (tejer 2 PB juntos)",
+              "Cad": "Cadena"
+            },
+            "instrucciones": {
+              "cabecita": [
+                "Anillo mágico: Hacer un anillo mágico con 6 puntos bajos.",
+                "Vuelta 2: Hacer 6 aumentos (12 puntos bajos en total). Marcar el primer punto.",
+                "Vuelta 3: Hacer 1 punto bajo y 1 aumento, repetir alrededor (18 puntos bajos en total).",
+                "Vuelta 4: Hacer 2 puntos bajos y 1 aumento, repetir alrededor (24 puntos bajos en total).",
+                "Vuelta 5: Hacer 3 puntos bajos y 1 aumento, repetir alrededor (30 puntos bajos en total).",
+                "Vuelta 6: Hacer 4 puntos bajos y 1 aumento, repetir alrededor (36 puntos bajos en total).",
+                "Vueltas 7-10: Hacer 1 punto bajo en cada uno de los 36 puntos (36 puntos bajos en total).",
+                "Vuelta 11: Hacer 5 puntos bajos y 1 aumento, repetir alrededor (42 puntos bajos en total).",
+                "Vueltas 12-13: Hacer 1 punto bajo en cada uno de los 42 puntos (42 puntos bajos en total).",
+                "Vuelta 14: Hacer 5 puntos bajos y 1 disminución, repetir alrededor (36 puntos bajos en total).",
+                "Vuelta 15: Hacer 4 puntos bajos y 1 disminución, repetir alrededor (30 puntos bajos en total).",
+                "Vuelta 16: Hacer 3 puntos bajos y 1 disminución, repetir alrededor (24 puntos bajos en total).",
+                "Vuelta 17: Hacer 2 puntos bajos y 1 disminución, repetir alrededor (18 puntos bajos en total).",
+                "Colocar ojitos de seguridad en la vuelta 9 (separados por 6 puntos).",
+                "Rellenar la cabeza y cerrar con una cadenita. Cortar la hebra."
+              ],
+              "cuerpo": [
+                "Anillo mágico: Hacer un anillo mágico con 6 puntos bajos.",
+                "Vuelta 2: Hacer 6 aumentos (12 puntos bajos en total).",
+                "Vuelta 3: Hacer 1 punto bajo y 1 aumento, repetir alrededor (18 puntos bajos en total).",
+                "Vuelta 4: Hacer 2 puntos bajos y 1 aumento, repetir alrededor (24 puntos bajos en total).",
+                "Vuelta 5: Hacer 3 puntos bajos y 1 aumento, repetir alrededor (30 puntos bajos en total).",
+                "Vueltas 6-8: Hacer 1 punto bajo en cada uno de los 30 puntos (30 puntos bajos en total).",
+                "Vuelta 9: Hacer 3 puntos bajos y 1 disminución, repetir alrededor (24 puntos bajos en total).",
+                "Vuelta 10: Hacer 2 puntos bajos y 1 disminución, repetir alrededor (18 puntos bajos en total).",
+                "Vueltas 11-13: Hacer 1 punto bajo en cada uno de los 18 puntos (18 puntos bajos en total).",
+                "Rellenar el cuerpo y dejar la hebra larga para unir con la cabeza."
+              ],
+              "nariz": [
+                "Anillo mágico: Hacer un anillo mágico con 6 puntos bajos.",
+                "Vuelta 2: Hacer 6 aumentos (12 puntos bajos en total).",
+                "Vuelta 3: Hacer 1 punto bajo y 1 aumento, repetir alrededor (18 puntos bajos en total).",
+                "Vueltas 4-5: Hacer 1 punto bajo en cada uno de los 18 puntos (18 puntos bajos en total).",
+                "Rellenar la nariz y coserla en el centro de la cabeza, entre los ojitos."
+              ],
+              "cola": [
+                "Anillo mágico: Hacer un anillo mágico con 4 puntos bajos.",
+                "Vuelta 2: Hacer 1 punto bajo y 1 aumento, repetir dos veces (6 puntos bajos en total).",
+                "Vuelta 3: Hacer 2 puntos bajos y 1 aumento, repetir alrededor (8 puntos bajos en total).",
+                "Vuelta 4: Hacer 3 puntos bajos y 1 aumento, repetir alrededor (10 puntos bajos en total).",
+                "Vuelta 5: Hacer 4 puntos bajos y 1 aumento, repetir alrededor (12 puntos bajos en total).",
+                "Vueltas 6-8: Hacer 1 punto bajo en cada uno de los 12 puntos (12 puntos bajos en total).",
+                "Vuelta 9: Hacer 5 puntos bajos y 1 aumento, repetir alrededor (14 puntos bajos en total).",
+                "Vuelta 10: Hacer 6 puntos bajos y 1 aumento, repetir alrededor (16 puntos bajos en total).",
+                "Rellenar la cola y coserla en la parte posterior del cuerpo."
+              ],
+              "bracitos": [
+                "Anillo mágico: Hacer un anillo mágico con 6 puntos bajos.",
+                "Vuelta 2: Hacer 1 punto bajo y 1 aumento, repetir alrededor (9 puntos bajos en total).",
+                "Vueltas 3-4: Hacer 1 punto bajo en cada uno de los 9 puntos (9 puntos bajos en total).",
+                "Hacer 2 bracitos."
+              ],
+              "piernitas": [
+                "Anillo mágico: Hacer un anillo mágico con 6 puntos bajos.",
+                "Vuelta 2: Hacer 6 aumentos (12 puntos bajos en total).",
+                "Vueltas 3-4: Hacer 1 punto bajo en cada uno de los 12 puntos (12 puntos bajos en total).",
+                "Hacer 2 piernitas."
+              ],
+              "piquitos": [
+                "Color paja: Hacer un anillo mágico con 4 puntos bajos.",
+                "Vuelta 2: Hacer 1 punto bajo y 1 aumento, repetir alrededor (6 puntos bajos en total).",
+                "Vuelta 3: Hacer 2 puntos bajos y 1 aumento, repetir dos veces (8 puntos bajos en total).",
+                "Vuelta 4: Hacer 3 puntos bajos y 1 aumento, repetir dos veces (10 puntos bajos en total).",
+                "Hacer 6 piquitos."
+              ],
+              "ensamblaje": [
+                "Unir la cabeza al cuerpo: Usar la aguja lanera para coser la cabeza al cuerpo.",
+                "Coser la nariz: Colocar y coser la nariz en el centro de la cabeza.",
+                "Unir los bracitos: Coser los bracitos a ambos lados de la cabeza, justo debajo de los ojitos.",
+                "Unir las piernitas: Coser las piernitas en la parte inferior del cuerpo.",
+                "Unir la cola: Coser la cola en la parte posterior del cuerpo.",
+                "Añadir los piquitos: Distribuir y coser los 6 piquitos en la parte posterior del cuerpo."
+              ]
+            },
+            "video": "https://youtu.be/-SivY8jM0jY?si=7j37lpMxgsz17RXr"
+          },
+          {
+            "id": "5",
+            "nombre": "Melody",
+            "imagen": "/img/patronesDentro/Melody.jpg",
+            "materiales": [
+              "Hilo blanco para el cuerpo, patas, brazos y orejas.",
+              "Hilo rosado para la capucha y el cuello.",
+              "Hilo amarillo para la flor.",
+              "Ganchillo (2.5 mm o 3 mm según el grosor del hilo).",
+              "Relleno.",
+              "Ojos de seguridad.",
+              "Aguja de coser.",
+              "Tijeras."
+            ],
+            "abreviaturas": {
+              "AM": "Anillo mágico",
+              "PB": "Punto bajo",
+              "Aum": "Aumento (2 PB en el mismo punto)",
+              "Dis": "Disminución (tejer 2 PB juntos)",
+              "Cad": "Cadena"
+            },
+            "instrucciones": {
+              "patas": [
+                "Comienza con color blanco.",
+                "Cadena: Haz 4 cadenas.",
+                "Primera vuelta: 2 puntos bajos en la segunda cadena desde el ganchillo. 4 puntos bajos en la última cadena. 1 punto bajo en el otro lado de la cadena. 1 aumento.",
+                "Segunda vuelta: 1 aumento, 1 punto bajo, 4 aumentos, 1 punto bajo, 2 aumentos.",
+                "Tercera vuelta: 5 puntos bajos, 4 medios puntos altos, 7 puntos bajos.",
+                "Cuarta vuelta: 5 puntos bajos, 4 medios puntos altos, 7 puntos bajos.",
+                "Quinta vuelta: 3 puntos bajos, 4 disminuciones, 5 puntos bajos.",
+                "Sexta y séptima vuelta: 12 puntos bajos en cada vuelta.",
+                "Termina: Cierra con un punto deslizado, corta el hilo."
+              ],
+              "unir las patas": [
+                "Haz tres puntos bajos adicionales en la segunda pata.",
+                "Une las patas: Engancha en el noveno punto de la primera pata, teje 12 puntos bajos alrededor de cada pata."
+              ],
+              "cuerpo": [
+                "Comienza con color blanco.",
+                "Primera vuelta: 6 puntos bajos en un anillo mágico.",
+                "Segunda vuelta: 6 aumentos.",
+                "Tercera vuelta: 1 punto bajo, 1 aumento, repite 6 veces.",
+                "Cuarta vuelta: 1 aumento, 2 puntos bajos, repite 6 veces.",
+                "Quinta vuelta: 3 puntos bajos, 1 aumento, repite 6 veces.",
+                "Sexta vuelta: 2 puntos bajos, 1 aumento, 4 puntos bajos, 1 aumento, repite 5 veces.",
+                "Séptima vuelta: 5 puntos bajos, 1 aumento, repite 6 veces.",
+                "Octava vuelta: 4 puntos bajos, 1 aumento, 8 puntos bajos, 1 aumento, repite 5 veces.",
+                "Novenas a decimoprimera vuelta: 60 puntos bajos en cada vuelta.",
+                "Coloca los ojos entre la vuelta 16 y 17.",
+                "Rellenar y cerrar."
+              ],
+              "brazos": [
+                "Comienza con color blanco.",
+                "Primera vuelta: 6 puntos bajos en un anillo mágico.",
+                "Segunda vuelta: 1 punto bajo, 1 aumento, repite 3 veces.",
+                "Tercera vuelta: 9 puntos bajos.",
+                "Cuarta vuelta: 1 punto bajo, 1 disminución, repite 3 veces.",
+                "Cinco a novena vuelta: 6 puntos bajos en cada vuelta.",
+                "Termina: Cierra con un punto deslizado, corta el hilo."
+              ],
+              "cola": [
+                "Comienza con color blanco.",
+                "Primera vuelta: 6 puntos bajos en un anillo mágico.",
+                "Segunda vuelta: 6 aumentos.",
+                "Tercera vuelta: 1 punto bajo, 1 aumento, repite 3 veces.",
+                "Cuarta vuelta: 2 puntos bajos, 1 disminución, repite 3 veces.",
+                "Termina: Cierra con un punto deslizado, corta el hilo."
+              ],
+              "cabeza": [
+                "Comienza con color blanco.",
+                "Primera vuelta: 6 puntos bajos en un anillo mágico.",
+                "Segunda vuelta: 6 aumentos.",
+                "Tercera a decimocuarta vuelta: Sigue el patrón de aumentos y puntos bajos, terminando con 60 puntos bajos en la decimoprimera vuelta.",
+                "Coloca los ojos entre la vuelta 16 y 17.",
+                "Rellenar y cerrar."
+              ],
+              "capucha": [
+                "Comienza con color rosado.",
+                "Primera vuelta: 6 puntos bajos en un anillo mágico.",
+                "Segunda vuelta: 6 aumentos.",
+                "Tercera a decimocuarta vuelta: Sigue el patrón de aumentos y puntos bajos, terminando con 60 puntos bajos en la décima vuelta.",
+                "Coloca sobre la cabeza, ajusta y une con puntos bajos."
+              ],
+              "cuello": [
+                "Comienza con color rosado.",
+                "Teje en filas: Comienza con 31 cadenas, teje 30 puntos bajos en la primera fila.",
+                "Continúa en filas con aumentos y disminuciones según el patrón.",
+                "Cose al cuerpo."
+              ],
+              "orejas": [
+                "Comienza con color blanco.",
+                "Primera vuelta: 6 puntos bajos en un anillo mágico.",
+                "Segunda vuelta: 6 aumentos.",
+                "Tercera a décima vuelta: Sigue el patrón de aumentos y puntos bajos.",
+                "Termina: Rellena ligeramente y cose a la cabeza."
+              ],
+              "flor": [
+                "Comienza con color amarillo.",
+                "Primera vuelta: Teje una flor básica con el patrón que prefieras.",
+                "Cose al cuerpo."
+              ]
+            },
+            "video": "https://youtu.be/mvp2NU5dmKM?si=kTgB7KVqR6RHLBNw"
+          },
+          {
+            "id": "6",
+            "nombre": "Pingüino",
+            "imagen": "/img/patronesDentro/Pinguino.jpg",
+            "materiales": [
+              "Hilo blanco para el cuerpo.",
+              "Hilo negro para la parte superior del cuerpo y alas.",
+              "Hilo anaranjado para el pico y las patas.",
+              "Hilo azul o rojo para bufanda (opcional).",
+              "Ganchillo (2.5 mm o 3 mm según el grosor del hilo).",
+              "Relleno.",
+              "Ojos de seguridad.",
+              "Aguja de coser.",
+              "Tijeras."
+            ],
+            "abreviaturas": {
+              "AM": "Anillo mágico",
+              "PB": "Punto bajo",
+              "Aum": "Aumento (2 PB en el mismo punto)",
+              "Dis": "Disminución (tejer 2 PB juntos)",
+              "Cad": "Cadena"
+            },
+            "instrucciones": {
+              "cuerpo": [
+                "Comienza con color blanco.",
+                "Primera vuelta: 6 puntos bajos en un anillo mágico.",
+                "Segunda vuelta: 6 aumentos.",
+                "Tercera vuelta: 1 punto bajo, 1 aumento, repite 6 veces.",
+                "Cuarta vuelta: 2 puntos bajos, 1 aumento, repite 6 veces.",
+                "Quinta vuelta: 3 puntos bajos, 1 aumento, repite 6 veces.",
+                "Sexta vuelta: 4 puntos bajos, 1 aumento, repite 6 veces.",
+                "Séptima vuelta: 5 puntos bajos, 1 aumento, repite 6 veces.",
+                "Octava a decimosegunda vuelta: 1 punto bajo en cada uno de los 42 puntos.",
+                "Decimotercera vuelta: 5 puntos bajos, 1 disminución, repite 6 veces.",
+                "Decimocuarta vuelta: 4 puntos bajos, 1 disminución, repite 6 veces.",
+                "Decimoquinta vuelta: 3 puntos bajos, 1 disminución, repite 6 veces.",
+                "Decimosexta vuelta: 2 puntos bajos, 1 disminución, repite 6 veces.",
+                "Decimoséptima vuelta: 1 punto bajo, 1 disminución, repite 6 veces.",
+                "Rellenar y cerrar."
+              ],
+              "ala": [
+                "Comienza con color negro.",
+                "Primera vuelta: 6 puntos bajos en un anillo mágico.",
+                "Segunda vuelta: 6 aumentos.",
+                "Tercera vuelta: 1 punto bajo, 1 aumento, repite 6 veces.",
+                "Cuarta vuelta: 2 puntos bajos, 1 aumento, repite 6 veces.",
+                "Quinta vuelta: 3 puntos bajos, 1 aumento, repite 6 veces.",
+                "Sexta vuelta: 4 puntos bajos, 1 aumento, repite 6 veces.",
+                "Séptima a novena vuelta: 1 punto bajo en cada uno de los 42 puntos.",
+                "Decima vuelta: 4 puntos bajos, 1 disminución, repite 6 veces.",
+                "Decimoprimera vuelta: 3 puntos bajos, 1 disminución, repite 6 veces.",
+                "Decimosegunda vuelta: 2 puntos bajos, 1 disminución, repite 6 veces.",
+                "Termina: Cierra con un punto deslizado, corta el hilo. Hacer dos alas."
+              ],
+              "pico": [
+                "Comienza con color anaranjado.",
+                "Primera vuelta: 6 puntos bajos en un anillo mágico.",
+                "Segunda vuelta: 6 aumentos.",
+                "Tercera vuelta: 1 punto bajo, 1 aumento, repite 3 veces.",
+                "Cuarta vuelta: 2 puntos bajos, 1 disminución, repite 3 veces.",
+                "Termina: Cierra con un punto deslizado, corta el hilo. Coser al centro de la cara."
+              ],
+              "patas": [
+                "Comienza con color anaranjado.",
+                "Primera vuelta: 6 puntos bajos en un anillo mágico.",
+                "Segunda vuelta: 6 aumentos.",
+                "Tercera vuelta: 1 punto bajo, 1 aumento, repite 3 veces.",
+                "Cuarta vuelta: 2 puntos bajos, 1 disminución, repite 3 veces.",
+                "Termina: Cierra con un punto deslizado, corta el hilo. Hacer dos patas."
+              ],
+              "bufanda": [
+                "Comienza con color azul o rojo.",
+                "Primera vuelta: Teje una cadena de 30 puntos.",
+                "Segunda vuelta: Teje puntos bajos en cada cadena.",
+                "Tercera vuelta: Teje puntos bajos en cada uno de los puntos de la vuelta anterior.",
+                "Termina: Cierra con un punto deslizado, corta el hilo. Hacer una bufanda si lo deseas."
+              ],
+              "ensamblaje": [
+                "Unir el pico: Coser el pico en el centro de la cara del pingüino.",
+                "Unir las alas: Coser las alas a ambos lados del cuerpo.",
+                "Unir las patas: Coser las patas en la parte inferior del cuerpo.",
+                "Añadir la bufanda: Colocar la bufanda alrededor del cuello del pingüino y asegurar con puntos bajos o coser."
+              ]
+            },
+            "video": "https://youtu.be/23u5cN9xiyE?si=jnRM1ylcQ24tjqGf"
+          },
+          {
+            "id": "7",
+            "nombre": "Conejito",
+            "imagen": "/img/patronesDentro/Conejito.jpg",
+            "materiales": [
+              "Hilo: Para el cuerpo del conejito. Puedes elegir colores según tu preferencia.",
+              "Aguja de crochet: Número 4.5 (depende de tu hilo).",
+              "Tijeras: Para cortar el hilo.",
+              "Marcador de vueltas: Para seguir el progreso en el trabajo.",
+              "Aguja lanera: Para coser las piezas y esconder los hilos.",
+              "Hilo de algodón semi grueso: Para bordar la nariz.",
+              "Aguja fina: Para bordar la nariz.",
+              "Ojitos de seguridad: Tamaño 14 mm.",
+              "Relleno: Para dar forma al conejito."
+            ],
+            "abreviaturas": {
+              "AM": "Anillo mágico",
+              "PB": "Punto bajo",
+              "Aum": "Aumento (2 PB en el mismo punto)",
+              "Dis": "Disminución (tejer 2 PB juntos)",
+              "Cad": "Cadena"
+            },
+            "instrucciones": {
+              "cabeza": [
+                "Inicio: Hacer un anillo mágico con 6 puntos bajos.",
+                "Aumentar en cada punto para obtener 12 puntos en la segunda vuelta.",
+                "Vuelta 3: Un punto bajo, un aumento.",
+                "Vuelta 4: Un aumento, dos puntos bajos.",
+                "Vuelta 5: Un aumento, tres puntos bajos.",
+                "Vuelta 6: Un aumento, cuatro puntos bajos.",
+                "Hacer 6 vueltas sin aumentos ni disminuciones.",
+                "Vuelta 7: Una disminución, cuatro puntos bajos.",
+                "Vuelta 8: Una disminución, tres puntos bajos.",
+                "Vuelta 9: Una disminución, dos puntos bajos.",
+                "Vuelta 10: Una disminución, un punto bajo.",
+                "Terminar con 12 puntos bajos.",
+                "Rellenar la cabeza y cerrar con un punto deslizado.",
+                "Colocar los ojitos y bordar la nariz."
+              ],
+              "orejas": [
+                "Inicio: Hacer un anillo mágico con 6 puntos bajos.",
+                "Aumentar en cada punto para obtener 12 puntos en la segunda vuelta.",
+                "Vuelta 3: Un punto bajo, un aumento.",
+                "Vuelta 4: Un aumento, dos puntos bajos.",
+                "Vuelta 5: Un aumento, tres puntos bajos.",
+                "Vuelta 6: Un aumento, cuatro puntos bajos.",
+                "Hacer 4 vueltas sin aumentos ni disminuciones.",
+                "Vuelta 7: Una disminución, dos puntos bajos.",
+                "Vuelta 8: Una disminución, un punto bajo.",
+                "Terminar con 12 puntos bajos.",
+                "Cerrar con punto deslizado y coser las orejas a la cabeza."
+              ],
+              "cuerpo": [
+                "Piernas: Hacer un anillo mágico con 6 puntos bajos.",
+                "Aumentar en cada punto para obtener 12 puntos en la segunda vuelta.",
+                "Hacer 4 vueltas sin aumentos ni disminuciones.",
+                "Unir las dos piernas y continuar con puntos bajos.",
+                "Cuerpo: Unir las piernas y continuar con aumentos y puntos bajos.",
+                "Vuelta 1: Un aumento, tres puntos bajos.",
+                "Hacer 5 vueltas de puntos bajos.",
+                "Hacer disminuciones para ajustar la forma del cuerpo.",
+                "Rellenar el cuerpo y coserlo a la cabeza con el hilo dejado largo."
+              ],
+              "bracitos": [
+                "Inicio: Hacer un anillo mágico con 5 puntos bajos.",
+                "Aumentar en cada punto para obtener 10 puntos en la segunda vuelta.",
+                "Hacer 7 vueltas de puntos bajos.",
+                "Realizar algunas disminuciones para darle forma a los bracitos.",
+                "Cerrar con punto deslizado y coser los bracitos al cuerpo."
+              ]
+            },
+            "video": "https://youtu.be/ITAhN3eApdw?si=PmxtM9wJlhQsQOh_"
+          },
+          {
+            "id": "8",
+            "nombre": "Wolf Chan SKZOO",
+            "imagen": "/img/patronesDentro/WolfChanSKZOO.jpg",
+            "materiales": [
+              "Hilo (blanco, gris, negro)",
+              "Pañolenci negro"
+            ],
+            "abreviaturas": {
+              "AM": "Anillo mágico",
+              "PB": "Punto bajo",
+              "Aum": "Aumento (2 PB en el mismo punto)",
+              "Dis": "Disminución (tejer 2 PB juntos)",
+              "Cad": "Cadena"
+            },
+            "instrucciones": {
+              "cabeza": [
+                "1. AM 6pb.",
+                "2. 6aum (12).",
+                "3. (1pb, 1aum) x6 (18).",
+                "4. (2pb, 1aum) x6 (24).",
+                "5. (3pb, 1aum) x6 (30).",
+                "6. (4pb, 1aum) x6 (36).",
+                "7. (8pb, 1aum) x4 (40).",
+                "8-9. 40pb.",
+                "10. (19pb, 1aum) x2 (42).",
+                "Empezamos a cambiar colores.",
+                "11. 12pb gris, 2pb blanco, 5pb gris, 2pb blanco, 21pb gris.",
+                "12. 11pb gris, 4pb blanco, 3pb gris, 4pb blanco, 20pb gris.",
+                "13. 10pb gris, 5pb blanco, 3pb gris, 5pb blanco, 19pb gris.",
+                "14. 9pb gris, 6pb blanco, 3pb gris, 6pb blanco, 18pb gris.",
+                "15. 42pb en blanco.",
+                "16. (5pb, 1dis) x6 (36).",
+                "17. (1pb, 1dis) x6 (30).",
+                "18. (3pb, 1dis) x6 (24).",
+                "19. (2pb, 1dis) x6 (12).",
+                "21. 6dis.",
+                "Coser y cerrar."
+              ],
+              "orejas": [
+                "1. AM 4pb.",
+                "2. 4aum (8).",
+                "3. (3pb, 1aum) x2 (10).",
+                "4. (1pb, 1aum) x5 (15).",
+                "5. (4pb, 1aum) x3 (18).",
+                "6. (4pb, 1dis) x3 (15).",
+                "Levantar una cadena y girar.",
+                "6pb.",
+                "Levantar una cadena y girar.",
+                "1dis, 2pb, 1dis (4).",
+                "Hacer pb alrededor de todo el borde. Rematar y dejar hebra para coser a la cabeza."
+              ]
+            },
+            "detalle": "Orejas y nariz en pañolenci negro. Ojos y sonrisa con hilo negro. Fleco y hoyuelos con hilo gris.",
+            "video": "https://youtu.be/W8XC8Z38dDo?si=feBM2yylMMpBcFhU"
+          },
+          {
+            "id": "9",
+            "nombre": "Cinnamoroll",
+            "imagen": "/img/patronesDentro/Cinnamoroll.jpg",
+            "materiales": [
+              "Hilado color blanco y negro",
+              "Ojos de seguridad ovalados de 11 mm (puede variar dependiendo del tamaño de la cabeza)",
+              "Pintura acrílica celeste",
+              "Esmalte de uñas transparente",
+              "Ganchillo 2,2 mm (o el que corresponda a tu hilado)",
+              "Relleno sintético",
+              "Aguja lanera",
+              "Alfileres",
+              "Tijeras",
+              "Silicona",
+              "Rubor",
+              "Pincel"
+            ],
+            "abreviaturas": {
+              "AM": "Anillo mágico",
+              "PB": "Punto bajo",
+              "Aum": "Aumento (2 PB en el mismo punto)",
+              "Dis": "Disminución (tejer 2 PB juntos)",
+              "Cad": "Cadena"
+            },
+            "instrucciones": {
+              "cabeza": [
+                "Preparar los Ojos:",
+                "1. Lija la superficie de los ojos.",
+                "2. Pinta con pintura acrílica celeste, aplica capas hasta obtener el color deseado.",
+                "3. Una vez seco, aplica una capa de esmalte transparente.",
+                "Tejer la Cabeza:",
+                "1. Inicio: Anillo mágico con 6 puntos bajos.",
+                "2. Seguir con aumentos:",
+                "   - Vuelta 2: 6 aumentos.",
+                "   - Vuelta 3: 1 punto bajo + 1 aumento, 6 veces.",
+                "   - Vuelta 4: 1 aumento + 2 puntos bajos, 6 veces.",
+                "   - Vuelta 5: 3 puntos bajos + 1 aumento, 6 veces.",
+                "   - Vuelta 6: 5 puntos bajos + 1 aumento, 5 veces.",
+                "   - Vuelta 7: 3 puntos bajos, 1 aumento, 6 puntos bajos + 1 aumento, 4 veces.",
+                "   - Vuelta 8: 7 puntos bajos + 1 aumento, 5 veces.",
+                "   - Vuelta 9: 4 puntos bajos, 1 aumento, 8 puntos bajos + 1 aumento, 4 veces.",
+                "   - Vuelta 10: 9 puntos bajos + 1 aumento, 5 veces.",
+                "   - Vuelta 11: 5 puntos bajos, 1 aumento, 10 puntos bajos + 1 aumento, 4 veces.",
+                "   - Vuelta 12: 11 puntos bajos + 1 aumento, 5 veces.",
+                "   - Vueltas 13-17: Tejer en espiral con 65 puntos bajos.",
+                "   - Vueltas 18-22: 72 puntos bajos por vuelta.",
+                "   - Vuelta 23: 17 puntos bajos, 1 aumento, 34 puntos bajos, 1 aumento, 17 puntos bajos.",
+                "   - Vueltas 24-28: 72 puntos bajos por vuelta.",
+                "   - Vuelta 29: 7 puntos bajos + 1 disminución, 8 veces.",
+                "   - Vuelta 30: 3 puntos bajos, 1 disminución, 6 puntos bajos + 1 disminución, 7 veces.",
+                "   - Vuelta 31: 5 puntos bajos + 1 disminución, 8 veces.",
+                "   - Vuelta 32: 2 puntos bajos, 1 disminución, 4 puntos bajos + 1 disminución, 7 veces.",
+                "   - Vuelta 33: 2 puntos bajos + 1 disminución, 10 veces.",
+                "   - Vuelta 34: 3 puntos bajos + 1 disminución, 6 veces (solo por la hebra trasera).",
+                "   - Rellenar y continuar con: 1 disminución + 2 puntos bajos, 6 veces.",
+                "   - Vuelta 36: 1 punto bajo + 1 disminución, 6 veces.",
+                "   - Última vuelta: 6 disminuciones.",
+                "   - Colocar Ojos:",
+                "     - Posicionar entre las vueltas 16 y 17, 11 puntos de distancia."
+              ],
+              "brazos": [
+                "Tejer un Brazo:",
+                "1. Anillo mágico con 5 puntos bajos.",
+                "2. Vuelta 2: 5 aumentos.",
+                "3. Vuelta 3: 1 punto bajo en cada punto (10 puntos bajos).",
+                "4. Vuelta 4: 3 puntos bajos + 1 disminución, 2 veces.",
+                "5. Vuelta 5: 1 punto bajo en cada punto (8 puntos bajos).",
+                "Tejer el Segundo Brazo:",
+                "6. Igual al primero, pero al final no cortar el hilo.",
+                "7. Unir Piernas y Cuerpo:",
+                "   - Hacer 5 cadenas y unir la primera pierna con 12 puntos bajos.",
+                "   - Unir la segunda pierna de la misma manera, conectando con la primera y continuando con los puntos de separación.",
+                "   - Unir Cuerpo:",
+                "     - Hacer una secuencia de puntos bajos y aumentos para unir el cuerpo y brazos."
+              ],
+              "orejas": [
+                "Tejer Orejas:",
+                "1. Anillo mágico con 6 puntos bajos.",
+                "2. Vuelta 2: 6 aumentos.",
+                "3. Vuelta 3: 1 punto bajo + 1 aumento, 6 veces.",
+                "4. Vuelta 4: 5 puntos bajos + 1 aumento, 3 veces.",
+                "5. Vuelta 5: 21 puntos bajos.",
+                "6. Vuelta 6: 6 puntos bajos + 1 aumento, 3 veces.",
+                "7. Vueltas 7-8: 24 puntos bajos.",
+                "8. Vuelta 9: 10 puntos bajos + 1 disminución, 2 veces.",
+                "9. Vueltas 10-12: 22 puntos bajos.",
+                "10. Vuelta 13: 9 puntos bajos + 1 disminución, 2 veces.",
+                "11. Vueltas 14-16: 20 puntos bajos.",
+                "12. Vuelta 17: 8 puntos bajos + 1 disminución, 2 veces.",
+                "13. Vueltas 18-20: 18 puntos bajos.",
+                "14. Vuelta 21: 4 puntos bajos + 1 disminución, 3 veces.",
+                "15. Vueltas 22-24: 15 puntos bajos.",
+                "16. Vuelta 25: 3 puntos bajos + 1 disminución, 3 veces.",
+                "17. Vueltas 26-29: 12 puntos bajos.",
+                "18. Última vuelta: 6 disminuciones.",
+                "19. Rellenar Orejas:",
+                "   - Rellenar ligeramente antes de hacer la última vuelta."
+              ],
+              "cola": [
+                "Tejer Cola:",
+                "1. Anillo mágico con 6 puntos bajos.",
+                "2. Vuelta 2: 1 punto bajo + 1 aumento, 3 veces.",
+                "3. Hacer 30 vueltas de 9 puntos bajos.",
+                "4. Última vuelta: 1 punto deslizado y cortar."
+              ],
+              "detalle": "Bordar la Boca:",
+              "ensamblar": [
+                "1. Marcar puntos con alfileres para la curva de la boca.",
+                "2. Bordar con hilo siguiendo la guía de los alfileres.",
+                "3. Ensamblar:",
+                "   - Unir la cabeza al cuerpo.",
+                "   - Coser los brazos a la cabeza.",
+                "   - Colocar y coser las orejas.",
+                "   - Enroscar y fijar la cola con silicona."
+              ],
+              "toques_finales": [
+                "Aplicar rubor para un acabado final."
+              ],
+              "video": "https://youtu.be/fK7lcjXIAEI?si=q86P10r697Zc6Bcp"
+            },
+            "video": "https://youtu.be/fK7lcjXIAEI?si=q86P10r697Zc6Bcp"
+          },
+          { 
+            "id": "10",
+            "nombre": "Borrego",
+            "imagen": "/img/patronesDentro/Borrego.jpg",
+            "materiales": [
+                "Hilo en colores negro, rojo, café, blanco y rosa.",
+                "Gancho del número 2.",
+                "Ojitos de seguridad del número 9.",
+                "Un cascabel.",
+                "Relleno para la ovejita."
+            ],
+             "video": "https://youtu.be/ghC5zTdqLnk?si=_x-9va5_MxiWwoUH"
+           },
+           {
+            "id": "11",
+            "nombre": "Patito",
+            "imagen": "/img/patronesDentro/Patito.jpg",
+            "materiales": [
+                "Lana o hilo de algodón en colores: naranja (para los pies y pico), blanco o amarillo claro (para el cuerpo), verde (para la capucha de rana).",
+                "Crochet de 3 mm.",
+                "Tijeras.",
+                "Aguja lanera.",
+                "Marcador de puntos.",
+                "Ojitos de seguridad (número 8 para el patito).",
+                "Silicón caliente."
+            ],
+            "video": "https://youtu.be/I2MBmjAIKXw?si=vUpf6C3WIdhK3Pec"
+           },
+           {
+            "id": "12",
+            "nombre": "Gato",
+            "imagen": "/img/patronesDentro/Gato.jpg",
+            "materiales": [
+              "Hilos en color de tu preferencia, lila y blanco.",
+              "Aguja de 2 mm.",
+              "Tijeras.",
+              "Hilo negro para bordar la carita del gatico.",
+              "Ojitos de seguridad de 5 mm.",
+              "Algodón siliconado para rellenar el llavero.",
+              "Aro para llavero.",
+              "Rubor para darle color a la nariz y mejillas."
+            ],
+            "video": "https://youtu.be/jgb2u0Jsx58?si=SB2BDQk-Tx2mn3E7"
+          },
+          {
+            "id": "13",
+            "nombre": "Fresita",
+            "imagen": "/img/patronesDentro/Fresita.jpg",
+            "materiales": [
+              "Hilos de algodón en colores rojo, verde, amarillo y blanco.",
+              "Crochet de 2.5 mm.",
+              "Relleno hipoalergénico.",
+              "Llavero y argollas.",
+              "Silicona líquida.",
+              "Aguja lanera.",
+              "Marcador."
+            ],
+             "video": "https://youtu.be/-c78XgekuVg?si=t7fTVO_1-0-KhCPp"
+          },
+          {
+            "id": "14",
+            "nombre": "Oso",
+            "imagen": "/img/patronesDentro/Oso.jpg",
+            "materiales": [
+              "Lana: Color celeste bebé (o el color de tu preferencia)",
+              "Lana semi gruesa: Para la boquita (color blanco o el que tengas)",
+              "Hilo marrón: Para bordar la nariz",
+              "Ojitos de seguridad: Número 10 (se recomienda usar de tamaño 14 o 16 si es posible)",
+              "Aguja de crochet: Número 5",
+              "Aguja lanera: De ojo grande",
+              "Marcador de puntos",
+              "Tijeras",
+              "Relleno de vellón siliconado"
+            ],
+            "video": "https://youtu.be/d5aAoiG-bMo?si=IoQ7jpyHMuddpDwc"
+          },
+          {
+            "id": "15",
+            "nombre": "Hello Kitty",
+            "imagen": "/img/patronesDentro/HelloKitty.jpg",
+            "materiales": [
+              "Aguja crochet 2.0 mm",
+              "Hilos de 2 mm de grosor en colores blanco, rojo, rosa y negro",
+              "Aguja lanera",
+              "Pañolenci negro y amarillo",
+              "Relleno siliconado",
+              "Silicona líquida",
+              "Tijeras",
+              "Marcador de puntos",
+              "Alfileres"
+            ],
+            "video": "https://youtu.be/UcvfsJys4jE?si=jbWuCo28FFOXU7pj"
+          },
+          {
+            "id": "16",
+            "nombre": "Ranita",
+            "imagen": "/img/patronesDentro/Ranita.jpg",
+            "materiales": [
+              "Hilo color verde y rosado.",
+              "Aguja.",
+              "Alfileres.",
+              "Tijeras.",
+              "Marcador de puntos.",
+              "Ojitos de seguridad.",
+              "Relleno."
+            ],
+             "video": "https://youtu.be/yaZ15w44d1I?si=qPMef39G-_bvHVLR"
+          },
+          {
+            "id": "17",
+            "nombre": "Spiderman",
+            "imagen": "/img/patronesDentro/Spiderman.jpg",
+            "materiales": [
+              "Paño lenzi o fieltro en color negro y blanco.",
+              "Silicona.",
+              "Colores de hilo: rojo, azul y negro (para el diseño de Spiderman).",
+              "Aguja.",
+              "Crochet."
+            ],
+             "video": "https://youtu.be/KuKnvZNaA9E?si=r5Z7L0l9TJZKZuzS"
+          },
+          {
+            "id": "18",
+            "nombre": "Vaquita",
+            "imagen": "/img/patronesDentro/Vaquita.jpg",
+            "materiales": [
+              "Lana CHENILLE (opcional), color de hilo o lana de tu preferencia.",
+              "Aguja del número 4.5 mm.",
+              "Ojos de seguridad del número 14.",
+              "Tijeras.",
+              "Aguja lanera."
+            ],
+             "video": "https://youtu.be/13Pw20bRblU?si=hyEX05V7mASk3AMz"
+          },
+          {
+            "id": "19",
+            "nombre": "Flor",
+            "imagen": "/img/patronesDentro/Flor.jpg",
+            "materiales": [
+              "Crochet.",
+              "Cualquier lana del grosor de su preferencia (color de su preferencia).",
+              "Alambre de calibre 26.",
+              "Silicona.",
+              "Brochetas 10.",
+              "Aguja.",
+              "Tijeras.",
+              "Marcador de crochet.",
+              "Relleno para el tulipán."
+            ],
+             "video": "https://youtu.be/rV6K28eaXik?si=dT2WMcGLHhYZWQ-c"
+          },
+          {
+            "id": "20",
+            "nombre": "Batman",
+            "imagen": "/img/patronesDentro/Batman.jpg",
+            "materiales": [
+              "Estambre negro.",
+              "Estambre color carne.",
+              "Estambre gris.",
+              "Estambre amarillo (un poco).",
+              "Tela blanca.",
+              "Tela negra (opcional) o pintura negra."
+            ],
+            "video": "https://youtu.be/sw6JPrwP2IE?si=SYVaQgqd-67iiEi5"
+          },
+          {
+            "id": "22",
+            "nombre": "Pollito",
+            "imagen": "/img/patronesDentro/Pollito.jpg",
+            "materiales": [
+              "Hilo de algodón color amarillo y marrón.",
+              "Ojitos (dependiendo del tamaño del pollito).",
+              "Crochet.",
+              "Aguja.",
+              "Tijeras.",
+              "Relleno (para darle forma al muñeco).",
+              "Aro para llaveros."
+            ],
+              "video": "https://youtu.be/hBZEVm67Xeg?si=iRNNeMZzlDMGANvn"
+          }
+          
+          
+          
+          
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+    
+         
+          
+          
+          
+
+          
+          
+
+
+
+          
+    ]
+}

@@ -1,0 +1,55 @@
+/* Estilos para el contenedor de la página de Login */
+.loginContainer {
+    background: linear-gradient(to bottom left, #C9434B, #A37C61);
+    width: 100%;
+    min-height: 100vh; /* Asegura que el contenedor ocupe al menos el 100% de la altura de la pantalla */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centra el contenido verticalmente */
+    padding: 2rem 1rem; /* Ajuste para pantallas pequeñas */
+    box-sizing: border-box; /* Incluye el padding en el cálculo del ancho y alto total */
+}
+
+/* Estilos para el contenedor del formulario */
+.formContainer {
+    background-color: rgba(227, 209, 199, 0.72);
+    width: 90%; /* Ajusta el ancho del contenedor para pantallas pequeñas */
+    max-width: 900px; /* Ajusta el ancho máximo */
+    margin: 0 auto; /* Centra el contenedor */
+    display: flex;
+    flex-direction: row; /* Fila para pantallas grandes */
+    gap: 2rem; /* Espacio entre el formulario y la imagen */
+    align-items: flex-start; /* Alineación en la parte superior */
+    padding: 3rem; /* Ajustado para más espacio */
+    border-radius: 1rem;
+    box-shadow: 7px 7px 30px rgba(0, 0, 0, 0.5);
+}
+
+/* Ajustes para la imagen en el contenedor del formulario */
+.formContainer img {
+    width: 100%; /* Ajusta la imagen al ancho del contenedor */
+    max-width: 300px; /* Ajusta el ancho máximo */
+    border-radius: 1rem;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.5);
+}
+
+/* Estilo para el formulario */
+.formContent {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.loginContainer h2 {
+    text-align: center;
+    margin-bottom: 2rem; /* Espacio debajo del título */
+}
+
+/* Ajustes para pantallas más pequeñas */
+@media (max-width: 768px) {
+    .formContainer {
+        flex-direction: column; /* Cambia a columna en pantallas pequeñas */
+        padding: 2rem; /* Reduce el padding para pantallas pequeñas */
+        gap: 1rem; /* Ajusta el espacio entre elementos en pantallas pequeñas */
+    }
+}

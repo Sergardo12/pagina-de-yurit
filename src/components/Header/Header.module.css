@@ -1,0 +1,21 @@
+.Header{
+    background-color: #a57c6c;
+    height: 5.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 14rem;
+    color:#FFFFFF;
+
+
+}
+
+.navBar{
+    display: flex;
+    gap: 2rem;
+}
+
+.Header img{
+    width: 3rem;
+    border-radius: 50%;
+}

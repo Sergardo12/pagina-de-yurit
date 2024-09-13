@@ -1,0 +1,42 @@
+.cardLista {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin: 0 auto;
+    padding: 2rem;
+    max-width: 1200px;
+}
+
+.card {
+    width: 20rem;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    /* transform: scale(1.05);  */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5); /* Sombra más grande en hover */
+}
+
+.card h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+
+.card img {
+    width: 100%; /* Hacer que la imagen ocupe el 100% del ancho del contenedor */
+    height: 15rem; /* Establecer una altura fija */
+    object-fit: cover; /* Recorta la imagen para llenar el contenedor sin deformarse */
+    border-radius: 8px;
+}

@@ -1,0 +1,49 @@
+.acceder {
+    background: linear-gradient(to bottom left, #C9434B, #A37C61);
+    width: 100%;
+    padding: 2rem 1rem; /* Ajuste para pantallas pequeñas */
+}
+
+.acceder h1 {
+    text-align: center;
+    font-weight: 800;
+    font-size: 2.5rem; /* Ajustado para una mejor visibilidad en pantallas pequeñas */
+    padding-top: 1rem;
+    margin-bottom: 1.5rem; /* Reducido para más espacio */
+    color: #f3eaea;
+    
+}
+
+.acceder h3{
+    text-align: center;
+    font-weight: 500;
+    font-size: 2rem; /* Ajustado para una mejor visibilidad en pantallas pequeñas */
+    padding-top: 1rem;
+    margin-bottom: 1.5rem; /* Reducido para más espacio */
+    color: #f3eaea;
+}
+
+.accederdiv {
+    background-color: rgba(227, 209, 199, 0.72);
+    width: 90%; /* Ajusta el ancho del contenedor para pantallas pequeñas */
+    max-width: 900px; /* Ajusta el ancho máximo */
+    margin: 0 auto; /* Centra el contenedor */
+    display: flex;
+    flex-direction: row; /* Fila para pantallas grandes */
+    gap: 2rem; /* Espacio entre el formulario y la imagen */
+    align-items: flex-start; /* Alineación en la parte superior */
+    padding: 3rem; /* Ajustado para más espacio */
+    border-radius: 1rem;
+    box-shadow: 7px 7px 30px rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 768px) {
+    .acceder h1 {
+        font-size: 1.2rem; /* Ajusta el tamaño del texto */
+    }
+
+    .accederdiv {
+        flex-direction: column; /* Columna en pantallas pequeñas */
+        padding: 2rem; /* Ajusta el padding */
+    }
+}

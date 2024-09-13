@@ -1,0 +1,33 @@
+.blog{
+    background-color: #F2D7D9;
+    padding: 2rem;
+}
+
+.blogh1{
+    text-align: center;
+    font-weight: 800;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.blogcuadro{
+   width: 30rem;
+   background-color: #fff;
+   padding: 2rem;
+   border: solid 0.5px #651135;
+   border-radius: 10px;
+   margin: 1rem auto;
+   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.blogcuadro h2{
+    font-size: 1.5rem;
+    font-weight: 800;
+    padding-bottom: 1rem;
+
+}
+
+.blogcuadro p{
+    font-size: 1rem;
+    line-height: 1.5;
+}

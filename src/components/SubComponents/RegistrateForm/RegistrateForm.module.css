@@ -1,0 +1,36 @@
+.registrateform {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem; /* Espacio entre el formulario y la imagen */
+    width: 100%;
+    max-width: 800px; /* Ajusta el ancho máximo */
+    margin: 0 auto; /* Centra el contenedor */
+}
+
+.formPrincipal {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem; /* Espacio entre los elementos del formulario */
+    width: 100%;
+}
+
+.formPrincipal h2{
+    text-align: center;
+}
+.registrateform img {
+    width: 100%; /* Ajusta la imagen al ancho del contenedor */
+    max-width: 300px; /* Ajusta el ancho máximo */
+    border-radius: 1rem;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 768px) {
+    .registrateform {
+        flex-direction: column; /* Columna en pantallas pequeñas */
+        gap: 1rem; /* Espacio entre el formulario y la imagen */
+    }
+
+    .registrateform img {
+        max-width: 100%; /* Ajusta el ancho máximo */
+    }
+}
