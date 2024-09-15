@@ -27,6 +27,7 @@
   display: flex;
   align-items: center;  /* Alinea al inicio para evitar desajustes */
   gap: 1rem;
+  padding-top: 2rem;
 }
 
 .modalLista div p{
