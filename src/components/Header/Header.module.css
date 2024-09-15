@@ -6,6 +6,7 @@
     align-items: center;
     padding: 1rem 14rem;
     color:#FFFFFF;
+    transition: all 0.3s ease-in-out;
 
 
 }
@@ -18,4 +19,16 @@
 .Header img{
     width: 3rem;
     border-radius: 50%;
+}
+
+@media (max-width: 768px) {
+    .Header{
+        flex-direction: column;
+        height: auto;
+        padding: 1rem 2rem;
+        margin: 0;
+        text-align: center;
+    }
+
+  
 }
