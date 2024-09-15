@@ -16,16 +16,20 @@ const Modal = ({ isOpen, onClose, contenido }) => {
   return (
     <div className={styles.modalOverlay} onClick={onClose}>
       <div className={styles.modalContent} onClick={(e) => e.stopPropagation()}>
-        <button className={styles.closeButton} onClick={onClose}>Cerrar</button>
-        <h2>{contenido.nombre}</h2>
-        <img src={contenido.imagen} alt={contenido.nombre} />
-        <p><strong>Materiales:</strong></p>
-        <ul className={styles.materialList}>
+        <button className={styles.closeButton} onClick={onClose}>X</button>
+        <div className={styles.modalLista}>
+          <div>
+            <h2>{contenido.nombre}</h2>
+            <p><strong>Materiales:</strong></p>
+            <ul className={styles.materialList}>
           {contenido.materiales.map((material, index) => (
             <li key={index}>{material}</li>
           ))}
         </ul>
-
+          </div>
+          <img src={contenido.imagen} alt={contenido.nombre} />
+        </div>
+        
         {videoID && (
           <div className={styles.videoContainer}>
             <iframe
