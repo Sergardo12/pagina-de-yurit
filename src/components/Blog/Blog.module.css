@@ -10,13 +10,21 @@
     margin-bottom: 2rem;
 }
 
+.blogLista{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: center;
+    
+}
+
 .blogcuadro{
    width: 30rem;
    background-color: #fff;
    padding: 2rem;
    border: solid 0.5px #651135;
    border-radius: 10px;
-   margin: 1rem auto;
+   margin: 0 auto;
    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
@@ -26,6 +34,7 @@
     padding-bottom: 1rem;
 
 }
+
 
 .blogcuadro p{
     font-size: 1rem;
