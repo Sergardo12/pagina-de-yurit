@@ -4,7 +4,7 @@
     padding: .5rem 1rem;
     border-radius: 5px;
     text-decoration: none; /* Para quitar el subrayado del enlace */
-    font-weight: bold;
+    font-weight: 300;
     transition: background-color 0.3s ease, transform 0.3s ease;
     box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.5) ;
 }
